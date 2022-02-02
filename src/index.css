@@ -1,0 +1,51 @@
+.card {
+  margin: 1rem;
+  flex-direction: row;
+  width: 20rem;
+  border-radius: 8px;
+  border: solid 2px grey;
+  box-shadow: 0 0 10px grey;
+}
+.card img {
+  margin-left: 1rem;
+  margin-top: 3rem;
+  height: 40%;
+  width: 40%;
+}
+
+.card-body {
+  padding: 2rem;
+}
+
+span {
+  color: blue;
+  font-size: 1.5rem;
+}
+h6 {
+  color: grey;
+}
+
+.card-title {
+  font-size: 2rem;
+}
+.display {
+  margin: 3rem;
+}
+
+h1 {
+  background-color: rgb(194, 194, 194);
+  padding: 0.5rem;
+  border-radius: 8px;
+  border: solid 2px grey;
+  box-shadow: 0 0 10px grey;
+  width: max-content;
+  margin-left: 4rem;
+}
+
+.checkOut {
+  margin-left: 8rem;
+}
+
+.shoppingCart {
+  margin-left: 3rem;
+}
